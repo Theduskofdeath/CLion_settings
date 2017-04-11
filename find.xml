@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Strace'" />
-    <option name="defaultScopeName" value="Project 'Strace'" />
-    <option name="SEARCH_SCOPE" value="Project 'Strace'" />
+    <option name="customScope" value="File '[Strace] - .../start.c'" />
+    <option name="defaultScopeName" value="File '[Strace] - .../start.c'" />
+    <option name="SEARCH_SCOPE" value="File '[Strace] - .../start.c'" />
   </component>
 </application>

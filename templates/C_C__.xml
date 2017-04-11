@@ -1,0 +1,14 @@
+<templateSet group="C/C++">
+  <template name="main" value="int     main(int ac, char **av)&#10;{&#10;    $END$&#10;    return (0)&#10;}" description="main function" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OC_DECLARATION_C" value="false" />
+      <option name="OC_DECLARATION_CPP" value="false" />
+      <option name="OC_EXPRESSION_C" value="false" />
+      <option name="OC_EXPRESSION_CPP" value="false" />
+      <option name="OC_STATEMENT_C" value="false" />
+      <option name="OC_STATEMENT_CPP" value="false" />
+      <option name="c" value="true" />
+      <option name="cpp" value="true" />
+    </context>
+  </template>
+</templateSet>

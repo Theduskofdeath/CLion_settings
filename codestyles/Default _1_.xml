@@ -1,5 +1,8 @@
 <code_scheme name="Default (1)">
+  <option name="RIGHT_MARGIN" value="80" />
   <Objective-C>
+    <option name="NAMESPACE_BRACE_PLACEMENT" value="2" />
+    <option name="FUNCTION_BRACE_PLACEMENT" value="2" />
     <option name="ADD_BRIEF_TAG" value="true" />
   </Objective-C>
   <Objective-C-extensions>
@@ -28,6 +31,7 @@
     </extensions>
   </Objective-C-extensions>
   <codeStyleSettings language="ObjectiveC">
+    <option name="CLASS_BRACE_STYLE" value="2" />
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
       <option name="SMART_TABS" value="true" />

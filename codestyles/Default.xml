@@ -1,4 +1,7 @@
 <code_scheme name="Default">
+  <Objective-C>
+    <option name="FUNCTION_BRACE_PLACEMENT" value="2" />
+  </Objective-C>
   <Objective-C-extensions>
     <file>
       <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Import" />
@@ -26,6 +29,7 @@
   </Objective-C-extensions>
   <codeStyleSettings language="ObjectiveC">
     <indentOptions>
+      <option name="TAB_SIZE" value="2" />
       <option name="USE_TAB_CHARACTER" value="true" />
       <option name="SMART_TABS" value="true" />
     </indentOptions>
